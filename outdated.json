@@ -8,8 +8,8 @@
   },
   "@types/node": {
     "current": "24.0.13",
-    "wanted": "24.0.14",
-    "latest": "24.0.14",
+    "wanted": "24.0.15",
+    "latest": "24.0.15",
     "dependent": "KONIVRER-deck-database",
     "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@types/node"
   },
@@ -27,11 +27,32 @@
     "dependent": "KONIVRER-deck-database",
     "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@typescript-eslint/parser"
   },
+  "@vitejs/plugin-react": {
+    "current": "4.6.0",
+    "wanted": "4.7.0",
+    "latest": "4.7.0",
+    "dependent": "KONIVRER-deck-database",
+    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@vitejs/plugin-react"
+  },
   "framer-motion": {
     "current": "12.23.3",
     "wanted": "12.23.6",
     "latest": "12.23.6",
     "dependent": "KONIVRER-deck-database",
     "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/framer-motion"
+  },
+  "react-router-dom": {
+    "current": "7.6.3",
+    "wanted": "7.7.0",
+    "latest": "7.7.0",
+    "dependent": "KONIVRER-deck-database",
+    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/react-router-dom"
+  },
+  "vite": {
+    "current": "7.0.4",
+    "wanted": "7.0.5",
+    "latest": "7.0.5",
+    "dependent": "KONIVRER-deck-database",
+    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/vite"
   }
 }
