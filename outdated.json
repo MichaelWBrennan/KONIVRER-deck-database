@@ -1,0 +1,72 @@
+{
+  "@radix-ui/react-dialog": {
+    "current": "1.1.14",
+    "wanted": "1.1.15",
+    "latest": "1.1.15",
+    "dependent": "KONIVRER-deck-database",
+    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@radix-ui/react-dialog"
+  },
+  "@radix-ui/react-dropdown-menu": {
+    "current": "2.1.15",
+    "wanted": "2.1.16",
+    "latest": "2.1.16",
+    "dependent": "KONIVRER-deck-database",
+    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@radix-ui/react-dropdown-menu"
+  },
+  "@radix-ui/react-toast": {
+    "current": "1.2.14",
+    "wanted": "1.2.15",
+    "latest": "1.2.15",
+    "dependent": "KONIVRER-deck-database",
+    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@radix-ui/react-toast"
+  },
+  "@tanstack/react-query": {
+    "current": "5.84.2",
+    "wanted": "5.85.3",
+    "latest": "5.85.3",
+    "dependent": "KONIVRER-deck-database",
+    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@tanstack/react-query"
+  },
+  "@tanstack/react-query-devtools": {
+    "current": "5.84.2",
+    "wanted": "5.85.3",
+    "latest": "5.85.3",
+    "dependent": "KONIVRER-deck-database",
+    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@tanstack/react-query-devtools"
+  },
+  "@types/react": {
+    "current": "19.1.9",
+    "wanted": "19.1.10",
+    "latest": "19.1.10",
+    "dependent": "KONIVRER-deck-database",
+    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@types/react"
+  },
+  "@typescript-eslint/eslint-plugin": {
+    "current": "8.39.0",
+    "wanted": "8.39.1",
+    "latest": "8.39.1",
+    "dependent": "KONIVRER-deck-database",
+    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@typescript-eslint/eslint-plugin"
+  },
+  "@typescript-eslint/parser": {
+    "current": "8.39.0",
+    "wanted": "8.39.1",
+    "latest": "8.39.1",
+    "dependent": "KONIVRER-deck-database",
+    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@typescript-eslint/parser"
+  },
+  "react-router-dom": {
+    "current": "7.8.0",
+    "wanted": "7.8.1",
+    "latest": "7.8.1",
+    "dependent": "KONIVRER-deck-database",
+    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/react-router-dom"
+  },
+  "vite": {
+    "current": "7.1.1",
+    "wanted": "7.1.2",
+    "latest": "7.1.2",
+    "dependent": "KONIVRER-deck-database",
+    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/vite"
+  }
+}
