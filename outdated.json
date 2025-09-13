@@ -1,37 +1,37 @@
 {
-  "@eslint/js": {
-    "current": "9.34.0",
-    "wanted": "9.35.0",
-    "latest": "9.35.0",
-    "dependent": "KONIVRER-deck-database",
-    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@eslint/js"
-  },
   "@tanstack/react-query": {
     "current": "5.85.9",
-    "wanted": "5.87.1",
-    "latest": "5.87.1",
+    "wanted": "5.87.4",
+    "latest": "5.87.4",
     "dependent": "KONIVRER-deck-database",
     "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@tanstack/react-query"
   },
   "@tanstack/react-query-devtools": {
     "current": "5.85.9",
-    "wanted": "5.87.1",
-    "latest": "5.87.1",
+    "wanted": "5.87.4",
+    "latest": "5.87.4",
     "dependent": "KONIVRER-deck-database",
     "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@tanstack/react-query-devtools"
   },
-  "@xata.io/cli": {
-    "current": "0.12.7",
-    "wanted": "0.12.7",
-    "latest": "0.16.12",
+  "axios": {
+    "current": "1.12.0",
+    "wanted": "1.12.1",
+    "latest": "1.12.1",
     "dependent": "KONIVRER-deck-database",
-    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@xata.io/cli"
+    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/axios"
   },
-  "eslint": {
-    "current": "9.34.0",
-    "wanted": "9.35.0",
-    "latest": "9.35.0",
+  "lucide-react": {
+    "current": "0.542.0",
+    "wanted": "0.542.0",
+    "latest": "0.544.0",
     "dependent": "KONIVRER-deck-database",
-    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/eslint"
+    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/lucide-react"
+  },
+  "react-router-dom": {
+    "current": "7.8.2",
+    "wanted": "7.9.1",
+    "latest": "7.9.1",
+    "dependent": "KONIVRER-deck-database",
+    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/react-router-dom"
   }
 }
