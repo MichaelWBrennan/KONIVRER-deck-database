@@ -1,37 +1,58 @@
 {
   "@eslint/js": {
-    "current": "9.34.0",
-    "wanted": "9.35.0",
-    "latest": "9.35.0",
+    "current": "9.35.0",
+    "wanted": "9.36.0",
+    "latest": "9.36.0",
     "dependent": "KONIVRER-deck-database",
     "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@eslint/js"
   },
   "@tanstack/react-query": {
-    "current": "5.85.9",
-    "wanted": "5.87.1",
-    "latest": "5.87.1",
+    "current": "5.87.4",
+    "wanted": "5.89.0",
+    "latest": "5.89.0",
     "dependent": "KONIVRER-deck-database",
     "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@tanstack/react-query"
   },
   "@tanstack/react-query-devtools": {
-    "current": "5.85.9",
-    "wanted": "5.87.1",
-    "latest": "5.87.1",
+    "current": "5.87.4",
+    "wanted": "5.89.0",
+    "latest": "5.89.0",
     "dependent": "KONIVRER-deck-database",
     "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@tanstack/react-query-devtools"
   },
-  "@xata.io/cli": {
-    "current": "0.12.7",
-    "wanted": "0.12.7",
-    "latest": "0.16.12",
+  "@typescript-eslint/eslint-plugin": {
+    "current": "8.43.0",
+    "wanted": "8.44.0",
+    "latest": "8.44.0",
     "dependent": "KONIVRER-deck-database",
-    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@xata.io/cli"
+    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@typescript-eslint/eslint-plugin"
+  },
+  "@typescript-eslint/parser": {
+    "current": "8.43.0",
+    "wanted": "8.44.0",
+    "latest": "8.44.0",
+    "dependent": "KONIVRER-deck-database",
+    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@typescript-eslint/parser"
+  },
+  "@vitejs/plugin-react": {
+    "current": "5.0.2",
+    "wanted": "5.0.3",
+    "latest": "5.0.3",
+    "dependent": "KONIVRER-deck-database",
+    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/@vitejs/plugin-react"
   },
   "eslint": {
-    "current": "9.34.0",
-    "wanted": "9.35.0",
-    "latest": "9.35.0",
+    "current": "9.35.0",
+    "wanted": "9.36.0",
+    "latest": "9.36.0",
     "dependent": "KONIVRER-deck-database",
     "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/eslint"
+  },
+  "vite": {
+    "current": "7.1.5",
+    "wanted": "7.1.6",
+    "latest": "7.1.6",
+    "dependent": "KONIVRER-deck-database",
+    "location": "/home/runner/work/KONIVRER-deck-database/KONIVRER-deck-database/node_modules/vite"
   }
 }
